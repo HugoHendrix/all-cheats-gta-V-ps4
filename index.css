@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --main-title: 'Fascinate', cursive;
+  --text-font: 'Open Sans', sans-serif;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family:var(--text-font);
+
+
+}
+.container-img {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(gtawp7.jpg) no-repeat;
+  height: 100vh;
+  width:auto;
+  background-size: 100%;
+
+  background-attachment: fixed;
+  
+}
+
+.container-img2 {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(cool-background.png) no-repeat;
+  height: 100vh;
+  width: auto;
+  background-size: 100%;
+  background-attachment: fixed;
+  
+}
+
+.container-img3 {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(gtawp3.jpg) no-repeat;
+  height: 100%;
+  width: auto;
+  background-size: 200%;
+  background-attachment: fixed;
+}
+
+
+
+h1 {
+  font-family: var(--main-title);
+  color: orange;
+  text-align: center;
+  font-size: 4rem;
+  padding-bottom:3rem;
+  cursor: pointer;
+  background-color: black;
+}
+
+p::selection {
+  color: darkblue;
+  background-color:orange;
+}
+
+h2::selection {
+  color: darkblue;
+  background-color:orange;
+}
+
+h3::selection {
+  color: darkblue;
+  background-color:orange;
+  font-weight: bold;
+}
+
+.armas, .police, .carros, .motos, .voador {
+  display: flex;
+  margin-inline: auto;
+  width: 50%;
+  border: 1px solid black;
+  padding:1.6rem;
+  flex-wrap: wrap;
+  line-height: 200%;
+
+  box-shadow:
+  2.3px 2.3px 1.9px rgba(0, 0, 0, 0.103),
+  5.4px 5.4px 4.3px rgba(0, 0, 0, 0.149),
+  9.7px 9.7px 7.7px rgba(0, 0, 0, 0.184),
+  16.1px 16.1px 12.8px rgba(0, 0, 0, 0.216),
+  26.5px 26.5px 21.2px rgba(0, 0, 0, 0.251),
+  46.2px 46.2px 37px rgba(0, 0, 0, 0.297),
+  100px 100px 80px rgba(0, 0, 0, 0.4)
+;
+    
+  background: rgba( 255, 255, 255, 0.2 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 3.5px );
+  -webkit-backdrop-filter: blur( 3.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+h2, p, h3 {
+  padding:1.2rem;
+  color:white;
+  
+
+}
+
+div {
+  width: 100%;
+  margin: auto;
+  min-width: 50%;
+}
