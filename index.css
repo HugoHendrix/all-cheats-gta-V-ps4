@@ -26,6 +26,9 @@ header {
       
 }
 
+abbr {
+    text-decoration: none;
+}
 h1 {
     font-family: var(--main-h1);
     color: orange;
