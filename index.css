@@ -37,6 +37,7 @@ ul, li, a {
     text-align: center;
     text-decoration: none;
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-around;
     margin-block: 1rem;
@@ -79,6 +80,7 @@ h3, p {
     font-size:1.8rem;
     width: 50%;
     margin: auto;
+    text-transform: uppercase;
 }
 
 footer {
