@@ -42,7 +42,7 @@ ul, li, a {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    justify-content: space-around;
+   
     margin-block: 1rem;
     color: orange;
     font-size: 2rem;
