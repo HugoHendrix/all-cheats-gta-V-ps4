@@ -22,6 +22,7 @@ header {
     width: 100%;
     margin-inline: auto;
     background-image: url(gtawp.jpg);
+    height: 100vh;
     
       
 }
@@ -33,7 +34,7 @@ h1 {
     font-family: var(--main-h1);
     color: orange;
     text-align: center;
-    font-size: 5rem;
+    font-size: 9rem;
 }
 
 ul, li, a {
