@@ -21,7 +21,7 @@ body, html {
 header {
     width: 100%;
     margin-inline: auto;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/gtawp8.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(gtawp8.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
