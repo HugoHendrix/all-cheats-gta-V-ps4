@@ -139,7 +139,7 @@ strong::selection {
 /*################ Efeito parallax ###############################*/
 
 .parallax {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.616), rgba(0,0,0,0.5)), url("/gtawp8.jpg");   
+    background-image: linear-gradient(rgba(0, 0, 0, 0.616), rgba(0,0,0,0.5)), url("gtawp8.jpg");   
     min-height: 3.5rem;
     background-attachment: fixed;
     background-position: center;
