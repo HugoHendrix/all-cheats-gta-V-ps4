@@ -1,5 +1,6 @@
 # GTA 5 CHEATS PARA PS4 🎮
-Para facilitar a Gameplay dos meus sobrinhos e praticar mais sobre o Desenvolvimento WEB com HTML e CSS.
+Para facilitar a Gameplay dos meus sobrinhos e praticar mais sobre o Desenvolvimento WEB com HTML e CSS. <br>
+<a href="https://hugohendrix.github.io/all-cheats-gta-V-ps4/" title="Clique Aqui para ver">Clique aqui para ver os CHEATS</a>
 
 ## Códigos de GTA V para Veículos
 Buzzard (Helicóptero) <br>	O, O, L1, O, O, O, L1, L2, R1, Triângulo, O, Triângulo <br> 
